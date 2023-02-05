@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RoomDatabseExample</string>
+    <string name="userprofile">UserProfile</string>
+    <string name="username">userName</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="useraddress">UserAddress</string>
+    <string name="zip">Zip</string>
+    <string name="save">Save</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+</resources>
